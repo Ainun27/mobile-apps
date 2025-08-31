@@ -37,11 +37,6 @@ Aplikasi ini dibuat sebagai **implementasi pembelajaran pemrograman mobile semes
 
 ---
 
-## 🎨 Dokumentasi UI/UX
-- 📌 **Figma Mockup**: [Lihat Desain di Figma](https://www.figma.com) *(ganti dengan link asli figma)*  
-
----
-
 ## Story Board
 ```sh
 1. Splash / Welcome Screen
