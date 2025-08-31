@@ -1,7 +1,34 @@
-# PROJEK APLIKASI MOBILE "PEMESANAN TIKET"
-## NAMA   : AINUN DWI PERMANA
-## NIM    : 312310013
-## KELAS  : TI 23 A1
+# 🎫 Ticket Booking System (Versi Awal)
+
+Project ini adalah aplikasi mobile sederhana untuk **pemesanan tiket** transportasi & hotel.  
+Dibuat sebagai bentuk **implementasi hasil belajar pemrograman mobile (semester 3)** menggunakan **Kotlin + Room Database**.  
+
+---
+
+## 🚀 Fitur
+- Pemesanan tiket (pesawat, kereta, kapal, hotel)  
+- Input data: nama, tujuan, jumlah tiket, kelas, tanggal, nomor HP  
+- Menyimpan riwayat transaksi  
+- CRUD data transaksi (create, read, update, delete)  
+
+---
+
+## 🛠️ Tech Stack
+- **Bahasa**: Kotlin  
+- **Database**: Room (SQLite)  
+- **Tools**: Android Studio Dolphin  
+
+---
+
+## 🎨 Dokumentasi UI/UX
+- 📌 **Figma Mockup**: [Lihat Desain di Figma](https://www.figma.com/design/rk9v64AwHnms9J6Gwew5N3/Untitled?node-id=20-369&p=f&t=6slvcD7JxE2pORdX-0)
+
+---
+
+## 👨‍💻 Pengembang
+- **Ainun Dwi Permana (312310013)** – *Founder & Creator*  
+
+---
 
 ### STORY BOARD 
 #### Storyboard untuk Aplikasi Pemesanan Tiket & Hotel
@@ -65,13 +92,6 @@
    -	Navigasi:
 -	Mengklik item dapat menuju ke layar detail (opsional) atau mengizinkan pengeditan.
 
-### STORYBOARD UI
+---
 
-![alt text](https://github.com/Ainun27/MobileAinun/blob/master/ainun.png?raw=true)
-
-# REVISI
-
-### STORYBOARD UI
-
-![alt text](https://github.com/Ainun27/MobileAinun/blob/master/Untitled%20(18).png?raw=true)
-
+📌 *Project ini adalah karya individu, dikerjakan sepenuhnya oleh Ainun Dwi Permana sebagai latihan pemrograman mobile.*
