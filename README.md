@@ -39,7 +39,7 @@ Fokus aplikasi adalah sistem **pemesanan tiket** (pesawat, kereta, kapal, hotel)
 ---
 
 ## 👨‍💻 Pengembang
-- **Versi Awal** → Ainun Dwi Permana (312310013)  
+- **Versi Awal** → Ainun Dwi Permana   
 - **Versi Update** → Ainun Dwi Permana (Project Lead) + Dita Tiara Putri, Nur Laila, Suci Maolia  
 
 ---
