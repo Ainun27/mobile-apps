@@ -26,7 +26,7 @@ Dibuat sebagai bentuk **implementasi hasil belajar pemrograman mobile (semester 
 ---
 
 ## 👨‍💻 Pengembang
-- **Ainun Dwi Permana (312310013)** – *Founder & Creator*  
+- **Ainun Dwi Permana** – *Founder & Creator*  
 
 ---
 
