@@ -6,7 +6,7 @@ Aplikasi ini tetap berfokus pada sistem **pemesanan tiket transportasi & hotel**
 ---
 
 ## 📌 Catatan Penting
-💡 **Ide dan konsep aplikasi berasal dari Ainun Dwi Permana**, terinspirasi dari aplikasi serupa yang sudah ada.  
+💡terinspirasi dari aplikasi serupa yang sudah ada.  
 Aplikasi ini dibuat sebagai **implementasi pembelajaran pemrograman mobile semester 4**, dengan pengembangan dilakukan secara kolaboratif bersama tim.  
 
 ---
