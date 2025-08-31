@@ -12,7 +12,7 @@ Fokus aplikasi adalah sistem **pemesanan tiket** (pesawat, kereta, kapal, hotel)
 
 - **tiketzon-update/**  
   Versi lanjutan dengan penyempurnaan fitur & UI/UX melalui kolaborasi tim.  
-  👉 [Buka README Versi Update](./tiketzon-update/README.md)
+  👉 [Buka README Versi Update](./tiketzone-update/README.md)
 
 ---
 
